@@ -1,0 +1,22 @@
+.footer {
+    margin-top: 1rem;
+    padding: 1rem;
+    background-color: rgb(214, 212, 220);
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+  }
+  
+  .footerFlex {
+    display: flex;
+    justify-content: flex-end;
+  }
+  
+  .footerFlex > li {
+    margin-right: 200px;
+  }
+  
+  .copyright {
+    text-align: center;
+  }
